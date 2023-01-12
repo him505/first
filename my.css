@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    background-color: aquamarine;
+}
+
+.redgreen{
+    color: red;
+    background-color: rgb(19, 0, 128);
+    font-size: x-large;
+}
+
+.redgreen:hover{
+    color:  rgb(19, 0, 128);
+    background-color: red;
+    font-size: small;
+}
+
+.bigbrown{
+color: brown;
+font-size: 60px;
+}
+
+.bigpicture{
+    width: 500px;
+    height: 500px;
+}
+
+.smallpicture{
+    width: 250px;
+    height: 250px;
+}
